@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../../../Assets/logo.png';
+import logo from '../../../Assets/edu.png';
 import { Link } from 'react-router-dom';
 import { userSignOut } from '../../../Actions/auth';
 import { connect } from 'react-redux';

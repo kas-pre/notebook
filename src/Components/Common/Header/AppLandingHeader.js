@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import logo from '../../../Assets/logo.png';
+import logo from '../../../Assets/edu.png';
 export default class AppLandingHeader extends Component {
   render() {
     return (
       <div class="app-landing-container">
         <div class="landing-logo-container">
           <img src={logo} class="landing-logo" alt="Logo" />
-          <span class="logo-text">NOTEBOOK</span>
+          <span class="logo-text">EduOnline</span>
         </div>
         <div class="login-form-container">
           <div class="form-group form-internal-left spacing">

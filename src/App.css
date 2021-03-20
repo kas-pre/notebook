@@ -50,7 +50,7 @@ hr {
 }
 .center-text{
   text-align: center;
-  background-color: #FFA726;
+  background-color: #0A1F44;
 }
 .open-padding{
   margin-top:5px
@@ -59,7 +59,7 @@ hr {
   color:black
 }
 .btn-signin{
-  background-color: #FFA726;
+  background-color: #0A1F44;
   border:  1px solid white;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
@@ -79,14 +79,14 @@ hr {
 .btn-signin:active{
   border-color:white;
   background-color: white; /* Green */
-  color: #FFA726;
+  color: #0A1F44;
   outline: 0;
   -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px white;
   box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px white;
 }
 .btn-signin:hover {
   background-color: white; /* Green */
-  color: #FFA726;
+  color: #0A1F44;
 }
 
 .app-landing-container {
@@ -94,14 +94,14 @@ hr {
   height: 91px;
   padding:13px;
   flex-grow: inherit;
-  background-color: #FFA726
+  background-color: #0A1F44
 }
 .landing-logo-container{
   float: left;
 }
 .landing-logo{
   height: 65px;
-  width: 84px;
+  width: 65px;
 }
 .login-form-container{
   float: right;
@@ -144,7 +144,7 @@ hr {
   padding:5px
 }
 .btn-login{
-  background-color: #FFA726;
+  background-color: #0A1F44;
   border:  1px solid white;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
@@ -158,21 +158,21 @@ hr {
 .btn-login:active{
   border-color:white;
   background-color: white; /* Green */
-  color: #FFA726;
+  color: #0A1F44;
   outline: 0;
   -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px white;
   box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px white;
 }
 .btn-login:hover {
   background-color: white; /* Green */
-  color: #FFA726;
+  color: #0A1F44;
 }
 .in-app-header-container{
   height: 54px;
   width: 100%;
   padding: 6px;
   padding-right: 18px;
-  background-color: #FFA726;
+  background-color: #0A1F44;
   display: inline-block;
   justify-content: space-between;
 }
@@ -297,14 +297,14 @@ padding: 8px 16px 8px  16px
 }
 .reply-btn:active{
   background-color: transparent; /* Green */
-  color: #FFA726;
+  color: #0A1F44;
   outline: 0;
   -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px white;
   box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px white;
 }
 .reply-btn:hover {
   background-color: transparent; /* Green */
-  color: #FFA726;
+  color: #0A1F44;
 }
 .cover-photo{
   width: 100%;
